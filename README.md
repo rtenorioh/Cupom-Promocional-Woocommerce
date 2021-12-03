@@ -9,8 +9,8 @@ Cupom Promocional de leve 3 pague 2 para Woocommerce
 
 4° Copie o código disponível no arquivo cupom.php deste repositório e cole dentro do arquivo functions.php do seu tema ativo.
 
-a. Altere a variável $ItQuantidadeMinima
+a. Altere a variável $rtQtdMin
 - Define a quatidade mínima de produto carrinho necessário para a promoção. Se for do tipo "pague 3 e leve 4", a quantidade mínima de produtos será 4.
 
-b. Altere a variável $StNomeCupom
+b. Altere a variável $rtCupom
 - Preencha com o nome do cupom que você criou.
